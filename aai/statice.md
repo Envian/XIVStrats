@@ -1,3 +1,2 @@
 # Statice
 
-Overview goes here.
