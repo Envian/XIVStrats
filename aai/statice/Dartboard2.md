@@ -3,13 +3,14 @@
 
 ## Identify Relative North
 
-3 fire walls will spawn around the arena, splitting it into thirds. Additionally, a single dart (Symbolized with a Target) will drop onto one of the slices. Additionally, there will be a rotation symbol.
+| | |
+| - | - |
+| 3 fire walls will spawn around the arena, splitting it into thirds. Additionally, a single dart (Symbolized with a Target) will drop onto one of the slices. Additionally, there will be a rotation symbol. | ![Image](dartboard2-a.png)
 
-![Image](dartboard2-a.png)
 
-The outer edge of each of those fire walls touch two colors - the fire wall that doesn't touch the color that the dart landed on is relative north. In the above example where a dart fell on yellow, we need to identify which of the fire walls is not touching a yellow slice. In that case, the South West wall is relative north.
-
-![Alt text](image.png)
+| | |
+| - | - |
+| The outer edge of each of those fire walls touch two colors - the fire wall that doesn't touch the color that the dart landed on is relative north. In the above example where a dart fell on yellow, we need to identify which of the fire walls is not touching a yellow slice. In that case, the South West wall is relative north. | ![Alt text](image.png)
 
 ## Positioning
 
